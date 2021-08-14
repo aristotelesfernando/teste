@@ -1,5 +1,7 @@
 import random
 
+print('Gerando sequencia de númneros para a quina!')
+
 numeros_in = [31, 18, 8, 52, 33, 39, 26, 58, 13, 38, 32, 57, 25, 80,
               81, 88, 98, 83, 93, 75, 78, 89, 86, 85, 65, 58, 66, 62, 69, 99]
 print(f'Numeros encontradops para combinacao: {len(numeros_in)}')
