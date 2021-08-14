@@ -1,5 +1,9 @@
 import random
 
+print('----------------------------------------------------------------')
+print('Gerando sequênciasd de numeros aleatorios da Mega-Sena')
+print('----------------------------------------------------------------')
+
 numeros_in = range(1, 61)
 print(f'Numeros encontradops para combinacao: {len(numeros_in)}')
 quinas = list()
